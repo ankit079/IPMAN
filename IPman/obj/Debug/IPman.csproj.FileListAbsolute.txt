@@ -1,0 +1,16 @@
+C:\Dev\IPman\IPman\obj\Debug\IPman.csprojResolveAssemblyReference.cache
+C:\Dev\IPman\IPman\obj\Debug\MainWindow.g.cs
+C:\Dev\IPman\IPman\obj\Debug\App.g.cs
+C:\Dev\IPman\IPman\obj\Debug\IPman_MarkupCompile.cache
+C:\Dev\IPman\IPman\obj\Debug\IPman_MarkupCompile.lref
+C:\Dev\IPman\IPman\bin\Debug\IPman.exe.config
+C:\Dev\IPman\IPman\bin\Debug\IPman.exe
+C:\Dev\IPman\IPman\bin\Debug\IPman.pdb
+C:\Dev\IPman\IPman\obj\Debug\MainWindow.baml
+C:\Dev\IPman\IPman\obj\Debug\IPman.g.resources
+C:\Dev\IPman\IPman\obj\Debug\IPman.Properties.Resources.resources
+C:\Dev\IPman\IPman\obj\Debug\IPman.csproj.GenerateResource.Cache
+C:\Dev\IPman\IPman\obj\Debug\IPman.csproj.CoreCompileInputs.cache
+C:\Dev\IPman\IPman\obj\Debug\IPman.exe
+C:\Dev\IPman\IPman\obj\Debug\IPman.pdb
+C:\Dev\IPman\IPman\obj\Debug\GeneratedInternalTypeHelper.g.cs
